@@ -14,10 +14,7 @@ This path has come with its own cost, I have let go of many things along the way
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shreyanssrivastava&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🤝 Get In Touch:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyansxsrivastava@gmail.com) 
-
----
-[![](https://komarev.com/ghpvc/?username=shreyanssrivastava&icon=0&color=green)](https://visitcount.itsvg.in)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyansxsrivastava@gmail.com)
 
 
 <!--
